@@ -1,0 +1,12 @@
+#Navigatie{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  
+}
+#Navigatie li{
+    display: inline;
+    Float: right;
+    padding: 14px 16px;
+    text-decoration: none;
+}
